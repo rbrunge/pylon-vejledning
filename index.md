@@ -4,6 +4,8 @@
 
 Clever Pylon er en bordmodel af Clever pylonen, der findes i rigtig skala i Odense.
 
+> **Vigtigt:** Dette produkt er ikke legetøj. Modellen tåler ikke rystelser og skal behandles forsigtigt.
+
 ### Sådan bruges modellen
 
 1. Placér modellen på et stabilt og tørt underlag.
@@ -18,6 +20,15 @@ Mens lyssekvensen kører, kan du trykke kort på knappen for at skifte til næst
 Hvis modellen skal køre i længere tid, skal du holde knappen inde i 3–5 sekunder. Herefter kører en lang lysrutine.
 
 Modellen må ikke flyttes, mens lyssekvensen kører, hvis det kan belaste ledningerne eller elektronikken.
+
+## Stik og kontakt
+
+På bagsiden er der to stik:
+
+- USB-C-stikket bruges til at oplade batteriet, som sidder inde i modellen. En fuld opladning tager nogle timer.
+- Det andet stik er en kontakt. Når kontakten står i positionen “0”, er batteriet slået fra.
+
+Batteriet kan ikke oplades, når kontakten står i positionen “0”. Sæt derfor kontakten i en anden position, når modellen skal bruges eller oplades.
 
 ## Opladning
 
@@ -51,6 +62,8 @@ Modellen indeholder et fastmonteret, genopladeligt litium-ion-batteri:
 - Kapacitet: 2100 mAh
 
 Batteriet sidder inde i displaystanderen. Modellen kan skilles ad, men batteriet er ikke beregnet til at blive taget ud af brugeren.
+
+Batteriet har bedst af at blive ladet op regelmæssigt. Undgå så vidt muligt at lade batteriet køre helt fladt.
 
 ## Bortskaffelse
 
