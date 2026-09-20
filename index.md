@@ -57,9 +57,9 @@ USB-kablet kan normalt blive siddende, mens opladningen foregår. Af sikkerhedsh
 
 Modellen indeholder et fastmonteret, genopladeligt litium-ion-batteri:
 
-- Type: Vapcell INR18650-H21
+- Type: Nitecore NL1410
 - Nominel spænding: 3,7 V
-- Kapacitet: 2100 mAh
+- Kapacitet: 1000 mAh
 
 Batteriet sidder inde i displaystanderen. Modellen kan skilles ad, men batteriet er ikke beregnet til at blive taget ud af brugeren.
 
